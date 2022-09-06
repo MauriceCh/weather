@@ -1,0 +1,52 @@
+
+* {
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+  
+  .app {
+    text-align: center;
+    background: rgb(255, 255, 255);
+  }
+  
+  .card {
+    width: fit-content;
+    padding: 20px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+  }
+  
+  .card img {
+    height: 70px;
+    background: rgb(255, 255, 255);
+  }
+  
+  .card ul {
+    list-style: none;
+    text-align: left;
+    padding: 0;
+    background: rgb(255, 255, 255);
+  }
+  
+  .card ul li {
+    margin-bottom: 20px;
+    background: rgb(255, 255, 255);
+  }
+  
+  .card ul li i {
+    margin-right: 10px;
+    background: rgb(255, 255, 255);
+  }
+  
+  .card button {
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    background: greenyellow;
+  }
+  
+  .card b {
+    margin-bottom: 10px;
+    background: rgb(255, 255, 255);
+  }
